@@ -1,1 +1,2 @@
-# Landing Page for our company Pixel Gate for Hack Harvard
+# Landing Page for Pixel Gate
+Utilized React for framework and GSAP for animating our mascot.
